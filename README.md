@@ -7,7 +7,6 @@
 
 # McLogScanner
 App made to make reading mc log files easier<br>
-<br>
 
 [![releaseImg]][release] ![mcversionImg] [![licenseImg]][license]
 <br><br>
