@@ -1,13 +1,12 @@
-[licenseImg]: https://img.shields.io/badge/License-MIT-important
-[license]: https://github.com/Chiarchiaooo/ThorHammer/blob/master/LICENSE
-[mcversionImg]: https://img.shields.io/badge/MC%20Version-1.19x-success
+[licenseImg]: https://img.shields.io/badge/License-MIT-blueviolet
+[license]: https://github.com/Chiarchiaooo/McLogScanner/blob/master/LICENSE
+[mcversionImg]: https://img.shields.io/badge/Language-Java-orange
 [mcversion]: https://tinyurl.com/5c56mn7r
 [releaseImg]: https://img.shields.io/badge/Version-1.0-blue
-[release]: https://github.com/Chiarchiaooo/ThorHammer/releases/latest
+[release]: https://github.com/Chiarchiaooo/McLogScanner/releases/latest
 
-# ThorHammer
-Simple Fun plugin made to recreate the Mjolnir (Thor's Hammer) in MC<br>
-Made for 1.13x -> 1.19x servers
+# McLogScanner
+App made to make reading mc log files easier<br>
 <br>
 
 [![releaseImg]][release] ![mcversionImg] [![licenseImg]][license]
